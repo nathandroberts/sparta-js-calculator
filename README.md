@@ -1,5 +1,5 @@
 # sparta-js-calculator
-Nathan Roberts
+A calculator created with 3 settings that takes commands using prompts and displays results in alerts.
 ### Brief
 Calculator
 
@@ -48,6 +48,4 @@ Note: For every 1 MPH over 60 MPH, reduce the the MPG by 2 MPG (i.e. a car that 
 #### Parts found easy
 The concept of if/else statements.
 ### Parts found hard
-Syntax (Math.sqrt() instead of math.sqrt())
-
-Approaching super bonus task.
+Ensuring that correct syntax was used eg. Math.sqrt() instead of math.sqrt()
